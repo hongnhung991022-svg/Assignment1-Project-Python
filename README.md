@@ -1,9 +1,9 @@
 # Mini Project – Test Grade Calculator
 
-### Author: Thi Hong Nhung Nguyen
-### Status: Active
-### Type: Data Processing with Python
-### Created: 22/01/2026
+- Author: Thi Hong Nhung Nguyen
+- Status: Active
+- Type: Data Processing with Python
+- Created: 22/01/2026
 
 # Introduction
 Currently, there are many methods for calculating students’ multiple-choice test scores. However, grading exams for hundreds or even thousands of students accurately and efficiently remains a significant challenge. This difficulty is further compounded when student responses do not strictly follow the standard format, such as having extra answers, missing answers, or leaving questions blank.
